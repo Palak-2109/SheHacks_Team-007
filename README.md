@@ -15,6 +15,24 @@
 * The most interesting work performed by OneStop is that all these tools can be opened in a single tab, thus reducing the overhead of managing multiple tabs at same time.
 
 
+<!-- FEATURES OF ONESTOP -->
+## ✨Features of OneStop  
+- Audio - Video Interface  
+  - Implemented using webRTC and socketIO
+  - Provide one to one interaction  
+
+- Real time whiteboard  
+  - Implemented using socketIO
+  - Helps to explain your idea during the interview  
+
+- Github Profile  
+  - Implemented using Github v3 API  
+  - Showcase your projects and repositories to the interviewer  
+
+- Chat Interface  
+  - Implemented using socketIO  
+  - Communicate and discuss over your doubts
+
 
 
 <!-- DEMO -->
