@@ -40,9 +40,9 @@
 Ready Steady Go.... :turtle: :rabbit2:
 <br>
 
-[CLICK HERE FOR DEMO](https://palak-2109.github.io/sample/#home)
+[CLICK HERE FOR LIVE LINK](https://palak-2109.github.io/sample/#home)
 <br>
-[CLICK HERE FOR PPT]()
+[CLICK HERE FOR DEMO]()
 
 
 
