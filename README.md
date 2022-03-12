@@ -82,10 +82,11 @@ node index.js
 
 <table>
   <tr>
-     <td align="center"><a href="https://github.com/codesanta142"><img src="https://avatars.githubusercontent.com/u/76592673?v=4" alt=""/><br /><sub><b>Kirti Singla</b></sub></a><br /></td>
+     
      <td align="center"><a href="https://github.com/Palak-2109"><img src="https://avatars.githubusercontent.com/u/76587145?v=4" width="200px;" alt=""/><br /><sub><b>Palak Ahuja</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/saloni33"><img src="https://avatars.githubusercontent.com/u/76587223?v=4" width="200px;" alt=""/><br /><sub><b>Saloni Doshi</b></sub></a><br /></td>
      <td align="center"><a href="https://github.com/99anjali"><img src="https://avatars.githubusercontent.com/u/76684182?v=4" width="200px;" alt=""/><br /><sub><b>Anjali </b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/codesanta142"><img src="https://avatars.githubusercontent.com/u/76592673?v=4" alt=""/><br /><sub><b>Kirti Singla</b></sub></a><br /></td>
  
  </tr>
 </table>
