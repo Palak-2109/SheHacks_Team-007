@@ -28,9 +28,9 @@
 Ready Steady Go... :turtle: :rabbit2:
 <br>
 
-[CLICK HERE FOR DEMO](https://www.youtube.com/watch?v=Kj8oRTNniPU)
+[CLICK HERE FOR DEMO]()
 <br>
-[CLICK HERE FOR PPT](https://drive.google.com/file/d/14SyYgA1OqKnPjFbicKsjodgjyTWvYg3p/view)
+[CLICK HERE FOR PPT]()
 
 
 
