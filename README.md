@@ -37,7 +37,7 @@
 
 <!-- DEMO -->
 ## Demo for OneStop :loudspeaker: :loudspeaker:
-Ready Steady Go... :turtle: :rabbit2:
+Ready Steady Go.... :turtle: :rabbit2:
 <br>
 
 [CLICK HERE FOR DEMO]()
