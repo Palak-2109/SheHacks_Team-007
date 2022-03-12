@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script
+      type="text/javascript"
+      src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.3.1/p5.min.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.3.1/addons/p5.sound.min.js"
+    ></script>
+    <title>Whiteboard</title>
+    
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.13.1/css/all.css"
+      integrity="sha384-xxzQGERXS00kBmZW/6qxqJPyxW3UR0BPsL4c8ILaIWXva5kFi7TxkIIaMiKtqV1Q"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div class="left_panel">
+        <div class="color_panel" style="margin-top: 25px;">
+          <div class="blackColor">
+            <button
+            class="black color"
+            onclick="changeColorToBlack()"
+            style="
+              background-color: black;
+              height:50px;
+              width: 50px;
+              border: none;
+              margin-left: 25px;
+            "
+            ></button>
+          </div>
+          
+          <div class="redColor ">
+            <button
+            class="red color"
+            onclick="changeColorToRed()"
+            style="
+              background-color: red;
+              height: 50px;
+              width: 50px;
+              border: none;
+              margin-left: 25px;
+            "
+            ></button>
+          </div>
+          <div class="greenColor">
+            <button
+            class="green color"
+            onclick="changeColorToGreen()"
+            style="
+              background-color: green;
+              height: 50px;
+              width: 50px;
+              border: none;
+              margin-left: 25px;
+            "
+            ></button>
+          </div>
+          <div class="blueColor">
+            <button
+            class="blue color"
+            onclick="changeColorToBlue()"
+            style="
+              background-color: blue;
+              height: 50px;
+              width: 50px;
+              border: none;
+              margin-left: 25px;
+            "
+            ></button>
+          </div>
+          <input type="color" style="width: 50px; height: 50px; padding: 0; margin-left: 25px;" value="#A050F0" />
+            <div class="strokee">
+                <div class="stroke_heading" style="margin-left: 25px;">Stroke</div>
+                <div class="stroke" style="margin-left: 25px;">
+                    <input  id="stroke" type="number" value="3" min="2" max="200" style="width: 40px;" />
+                </div>
+            </div>
+        </div>
+        <div class="extras">
+            <div class="clearBoard">
+                <button class="delete" onclick="activateEraser()" style="border: none; background-color: transparent; margin-left: 25px; margin-bottom: 25px;"><i class="fa fa-eraser fa-3x"></i></button>
+            </div>
+            <div class="clearBoard">
+                <button class="delete" onclick="deleteDrawing()" style="border: none; background-color: transparent; margin-left: 25px;"><i class="fa fa-trash fa-3x"></i></button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+    <!-- <script src="server.js"></script> -->
+  </body>
+</html>
