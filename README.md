@@ -11,14 +11,8 @@
 ## 🎯About OneStop
 
 
-* “OneStop” functions to stabilise and take care of our mental health. It takes the input of how the user is feeling via MoodTracer  based upon his current feelings like sad, happy , crying , anxious and much more.:kissing::grin::confounded::sob: 
-* The most interesting work performed by Peacify is “Journal Work” , where we can write whatever we want to, maybe the feelings, or what happened throughout the day, what makes that day  feel to the user.
-* Based upon the input of the user, Peacify makes suggestions :pushpin: to the user about what he should do right then when he is feeling low , depressed or any such feeling.
-* Peacify has a beautiful feature of Meditation with background guiding music for making him Relax and more peaceful.
-* Peacify is associated with :bookmark_tabs::clipboard: JournalActivity, hence it is a new feature over handwritten Diary/ Journal Writings making it more user friendly and portable to access any day’s happenings and feelings whenever he wishes to travel back in time.
-* It has a feature of Sharing the app because “Sharing is Caring”
-* It keeps the user motivated daily via Quotes Functionality that kick starts your day and mood , provokes his daily activity making him pro-active throughout the day.
-* It gives a wonderful feature of getting help via contacting a friend when you want to talk with someone.In case of scenarios of Professional Help required, it gives the user the Nearest Therapist/ Psychiatrist Location via google maps and all the details required via the shortest 
+* “OneStop” is an interface where inteviewee can get all the required tools like audio-video interface 💻, github profile, whiteboard 🔲 at one place.
+* The most interesting work performed by OneStop is that all these tools can be opened in a single tab, thus reducing the overhead of managing multiple tabs at same time.
 
 
 
